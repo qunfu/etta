@@ -1,0 +1,2 @@
+# etta
+Promotions storage
